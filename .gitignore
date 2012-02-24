@@ -1,0 +1,15 @@
+*.ipa
+# xcode noise
+*.modelv3
+*.pbxuser
+*.perspective
+*.perspectivev3
+*.pyc
+*~.nib/
+build/
+#workspace files noise
+xcuserdata/
+
+# osx noise
+.DS_Store
+profile
